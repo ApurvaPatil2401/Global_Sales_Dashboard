@@ -32,7 +32,8 @@ This project presents an interactive Power BI dashboard providing sales, profit,
 - Experience in creating KPI-driven executive dashboards
 
 ## Dashboard Preview
-![Dashboard Screenshot](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/1a5dab1d-691f-471a-9a38-a8708d9f1474)
+
 
 Demo (your-linkedin-url)
 
