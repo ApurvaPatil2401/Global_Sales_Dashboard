@@ -35,7 +35,5 @@ This project presents an interactive Power BI dashboard providing sales, profit,
 ![image](https://github.com/user-attachments/assets/1a5dab1d-691f-471a-9a38-a8708d9f1474)
 
 
-Demo (your-linkedin-url)
-
----
+Demo : https://www.linkedin.com/posts/apurva-patil-1b515928b_powerbi-dashboard-dataanalytics-activity-7322868369559306241-mWd4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZSztkBiR5MygCQBovqgk0dFw6Bmhk1dNc
 
